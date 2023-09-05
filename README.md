@@ -3,8 +3,6 @@
 
 ![Steisse GitHub stats](https://github-readme-stats.vercel.app/api?username=KemellySt&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_black"><br>
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
