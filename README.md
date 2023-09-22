@@ -9,7 +9,7 @@
   <img align="center" alt="phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-Conecte-se comigo:
+## Conecte-se comigo:
 Email: kemellysilva942@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemelly-steisse-61b359216/)
