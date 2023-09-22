@@ -1,5 +1,6 @@
-## Oii, eu sou a Kemelly Steisse ✌️
-<img align="right" alt="Coding Crying" width="400" src="https://github.com/KemellySt/KemellySt/assets/133973116/92868de7-b1a9-4939-bc52-e3fc6fc06ba1">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD4&height=120&section=header"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=4332BBFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kemelly+Steisse;I'm+19+years+old;I'm+from+Brazil;I+study+Computer+Engennering;Be+Welcome!+:%29)">
+<img align="right" alt="Coding Crying" width="350" src="https://github.com/KemellySt/KemellySt/assets/133973116/92868de7-b1a9-4939-bc52-e3fc6fc06ba1">
 
 ### Linguagens
 <p align="left">
