@@ -5,7 +5,7 @@
 ### Languages:
 <p align="left">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="java" src="![image](https://github.com/user-attachments/assets/400f6ad8-e2bf-4f7b-ba5d-b933a23c2fc1)"/>
   <img align="center" alt="phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
